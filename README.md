@@ -68,3 +68,4 @@ The laboratory tasks are organized into platform folders (`8051/` and `STM32/`),
 1. **Deterministic Structure:** Every project directory contains its Keil `.uvproj`/`.uvprojx` or STM32CubeMX `.ioc`, standard startup assembly (`STARTUP.A51` / `startup_stm32*.s`), source files, compiled binary (`Objects/*.hex`), wiring schematic (`circuit.png`), and structured documentation (`README.md`).
 2. **Standard Git Hygiene:** Build intermediates, user IDE GUI workspace caches (`.uvopt`, `.uvoptx`, `.uvgui*`), and object list caches are strictly excluded via `.gitignore`, while tracked hex binaries and hardware schematics are preserved.
 3. **Automated Evaluator Ready:** Validated against the automated evaluation script (`evaluate.py`) for zero structural errors and complete pass marks.
+
