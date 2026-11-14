@@ -54,6 +54,9 @@ The circuit implements a complete edge-to-cloud environmental intelligence IoT s
 
 ![Environmental Intelligence Live Dashboard](dashboard.jpg)
 
+> [!TIP]
+> **Node-RED Flow Export:** The complete, importable flow configuration is attached as [node_red_flow.json](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT15/TASK15/node_red_flow.json) (also mirrored as [flows.json](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT15/TASK15/flows.json)) containing all node configurations, function routines, MQTT topics, OpenWeather API bindings, and custom dashboard UI styling.
+
 **Pseudocode:**
 ```text
 FUNCTION main():
@@ -119,3 +122,4 @@ FUNCTION main():
 2. **Cloud Connectivity:** The Wemos D1 Mini maintained a persistent TCP socket to `broker.emqx.io:1883`, publishing JSON packets every 5 seconds with negligible transmission latency.
 3. **Dual Data Ingestion & Analytics:** The Node-RED flow successfully integrated local physical sensor data with cloud OpenWeather API data, enabling real-time thermal gradient tracking and actionable indoor air quality/comfort recommendations on the dark-mode dashboard.
 4. **End-to-End Capstone Prototype:** The project demonstrated the complete IoT paradigm: physical sensing, embedded peripheral driver implementation, wireless modem control, message broker transport, REST API consumption, and automated data visualization.
+
