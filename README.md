@@ -10,7 +10,7 @@
 
 ## 1. System Architecture & Complete Circuit Overview
 
-This repository contains all experimental deliverables, bare-metal firmware, HAL-based drivers, project configuration files, and documentation following the course module schedule and Continuous Assessment Tests (CAT 2 through CAT 14).
+This repository contains all experimental deliverables, bare-metal firmware, HAL-based drivers, project configuration files, and documentation following the course module schedule and Continuous Assessment Tests (CAT 2 through CAT 15).
 
 ![Foundations of IoT System Architecture](circuit.png)
 
@@ -60,6 +60,7 @@ The laboratory tasks are organized into platform folders (`8051/` and `STM32/`),
 | **CAT 12 (Week 12)** | TASK 12C | STM32F401RE Nucleo-64: Short vs Long Press Detection | [TASK12C](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT12/TASK12C) | [README.md](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT12/TASK12C/README.md) |
 | **CAT 13 (Week 13)** | TASK 13 | BME280 I2C Sensor Interfacing + ESP8266 HTTP + Node-RED | [TASK13](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT13/TASK13) | [README.md](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT13/TASK13/README.md) |
 | **CAT 14 (Week 14)** | TASK 14 | BME280 Sensor Interfacing + Custom ESP8266 MQTT + Node-RED | [TASK14](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT14/TASK14) | [README.md](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT14/TASK14/README.md) |
+| **CAT 15 (Week 15)** | TASK 15 | Capstone IoT Project: Environmental Intelligence (BME280 + OpenWeather API + Node-RED Dashboard) | [TASK15](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT15/TASK15) | [README.md](file:///C:/Users/OHMESHA/IoT%20Lab/25011102071_FIoT_LAB/STM32/CAT15/TASK15/README.md) |
 
 ---
 
