@@ -1,7 +1,7 @@
 # Foundations of IoT (25CS2741) – Laboratory Repository
 
 **Course:** 25CS2741 Fundamentals of Internet of Things + Lab  
-**Student Name:** Om Maheshwar  
+**Student Name:** Ohmesha S  
 **Register Number:** 25011102071  
 **Department:** Computer Science & Engineering (IoT), Shiv Nadar University Chennai  
 **Repository:** `25011102071_FIoT_LAB`
